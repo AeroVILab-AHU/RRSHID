@@ -7,7 +7,7 @@ This is the official Pytorch/Pytorch implementation of the paper: <br/>
 >
 > Zeng-Hui Zhu†, Wei Lu†, Si-Bao Chen*, Chris H. Q. Ding, Jin Tang, and Bin Luo, Senior Member, IEEE 
 > 
->  *IEEE Transactions on Geoscience and Remote Sensing (TGRS), In peer review.* [arXiv](https://arxiv.org/abs/2503.17966)
+>  *IEEE Transactions on Geoscience and Remote Sensing (TGRS).* [arXiv](https://arxiv.org/abs/2503.17966), [TGRS](https://ieeexplore.ieee.org/abstract/document/11058953/).
 > 
 
 ----
@@ -51,12 +51,15 @@ Your star is the power that keeps us updating github.
 ## Citation
 If RRSHID is useful or relevant to your research, please kindly recognize our contributions by citing our paper:
 ```
-@article{lu2025legnet,
-  title={Real-World Remote Sensing Image Dehazing: Benchmark and Baseline},
-  author={Zhu, Zeng-Hui and Lu, Wei and Chen, Si-Bao and Ding, Chris HQ and Tang, Jin and Luo, Bin},
-  journal={arXiv preprint arXiv:2503.17966},
-  year={2025}
-}
+@ARTICLE{11058953,
+  author={Zhu, Zeng-Hui and Lu, Wei and Chen, Si-Bao and Ding, Chris H. Q. and Tang, Jin and Luo, Bin},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Real-World Remote Sensing Image Dehazing: Benchmark and Baseline}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-1}
+  }
 ```
 
 ## License
